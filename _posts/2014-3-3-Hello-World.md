@@ -1,6 +1,7 @@
 ---
 layout: null
 title: 26届秋招蹲offer...
+permalink: /home/
 ---
 南方科技大学创新创意设计学院，工业设计工程硕士研究生，2023.8 至今
 

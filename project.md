@@ -10,7 +10,7 @@ permalink: /project/
 
 ### 本科毕设：基于AR的桌面玩偶游戏设计
 
-![AR]()
+![AR](images/ARgame)
 [demo_bilibili](https://www.bilibili.com/video/BV12V4y1r7G7/?spm_id_from=333.337.search-card.all.click)
 
 

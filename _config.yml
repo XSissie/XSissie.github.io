@@ -16,8 +16,8 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  tel: 15093137527
-  email: 15093137527@163.com
+  tel: "15093137527"
+  email: "15093137527@163.com"
 
 
 

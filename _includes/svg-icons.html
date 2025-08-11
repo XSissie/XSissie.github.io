@@ -1,3 +1,17 @@
+{% if site.footer-links.tel %}
+  <p>{{ site.footer-links.tel }}</p>
+{% endif %}
+{% if site.footer-links.email %}
+  <p>{{ site.footer-links.email }}</p>
+{% endif %}
+{% if site.footer-links.residence %}
+  <p>{{ site.footer-links.residence }}</p>
+{% endif %}
+{% if site.footer-links.birthday %}
+  <p>{{ site.footer-links.birthday }}</p>
+{% endif %}
+
+
 {% if site.footer-links.dribbble %}<a href="https://dribbble.com/{{ site.footer-links.dribbble }}"><i class="svg-icon dribbble"></i></a>{% endif %}
 
 {% if site.footer-links.facebook %}<a href="https://www.facebook.com/{{ site.footer-links.facebook }}"><i class="svg-icon facebook"></i></a>{% endif %}

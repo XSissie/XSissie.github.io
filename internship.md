@@ -6,7 +6,7 @@ permalink: /internship/
 
 ### 阿里巴巴
 
-![AR]()
+![ARgame]()
 
 ### 文石BOOX
 

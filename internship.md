@@ -10,8 +10,7 @@ permalink: /internship/
 ![nova](images/image-22)
 ### 文石BOOX
 
-![AR]()
-[点击观看演示视频]()
+
 
 
 ### 百度
